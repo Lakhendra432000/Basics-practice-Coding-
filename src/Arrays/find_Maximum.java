@@ -19,7 +19,7 @@ public class find_Maximum {
                max=arr[i];
            }
         }
-        System.out.println("the maximum element in array="+max);
+        System.out.println("the maximum element in array="+ max);
 
 
 
