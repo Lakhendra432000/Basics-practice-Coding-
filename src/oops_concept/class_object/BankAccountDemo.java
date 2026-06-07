@@ -1,4 +1,4 @@
-package Oops_Concept;
+package oops_concept.class_object;
 
 public class BankAccountDemo {
    public  void main(String[] args){

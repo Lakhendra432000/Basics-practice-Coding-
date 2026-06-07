@@ -1,4 +1,4 @@
-package Oops_Concept;
+package oops_concept.encapsulation;
 
 public class BankAccountEncapsulationDemo {
         public static void main(String[] args) {
